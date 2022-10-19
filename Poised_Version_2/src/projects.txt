@@ -1,0 +1,4 @@
+[1,Jake's House,House,741 Hope Street,JH01,750000.0,550000.0,30 December 2022,Yes,Jake,0712235155,jake@hyperion.com,123 Mandela Street,James,0721154744,james@hyperion.com,456 Mandela Drive,Jimmy,0824568898,jimmy@hyperion.com,789 Mandela Avenue]
+[2,Mike's Apartment,Apartment,753 patient Street,MA02,450000.0,300000.0,31 December 2022,No,Mike,0114548722,mike@hyperion.com,963 Duty Avenue,Mark,0116369855,mark@hyperion.com,852 Call Street,Mario,0117875496,mario@hyperion.com,741 Ops Drive]
+[3,Bella's House,House,144 Voda Avenue,BH03,680000.0,498500.0,24 September 2022,No,Bella,0815549632,bella@hyperion.com,654 Vodacom Street,Ben,0814123485,ben@hyperion.com,789 MTN Avenue,Bill,0835502144,bill@hyperion.com,135 Telkom Street]
+[]
